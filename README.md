@@ -126,12 +126,3 @@ Avoid scraping sensitive data: Avoid scraping data that could be used to harm in
 
 Be cautious about scraping social media: Social media platforms have their own terms of service that govern how data can be scraped. Be sure to comply with these terms of service when scraping social media data.
 
-## Contributors
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=bughunter0/WebScrapperRoBot)
-
-## Support
-
-Show your support [here](https://github.com/sponsors/nuhmanpk)
-
-<Br><b>Mark your Star [⭐⭐](https://github.com/nuhmanpk/WebScrapper/stargazers)<b>
